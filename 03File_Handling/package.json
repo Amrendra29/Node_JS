@@ -1,11 +1,11 @@
 {
-  "name": "modules",
+  "name": "03file_handling",
   "version": "1.0.0",
-  "description": ",,",
+  "description": "",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "modules.js",
+  "main": "file.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
